@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF:-1 ,
+corrupt/empty
+#EXTINF:-1 group-title="SAT BD" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV World
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/live-orgin/Btv-g.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI0IDI6MDQ6MTAgUE0maGFzaF92YWx1ZT1ZYXc2U0c2MmJkNGtCeUJTRkdjZEVBPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV World <YT>
+https://utube.buddyxiptv.com/@BangladeshTelevision-BTV.m3u8
+#EXTINF:-1 group-title="SAT BD" tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" ,ATN BANGLA
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="SAT BD" ,ATN Bangla <MAC>
+http://tv.cloudcdn.me/live.ts?channelId=81&uid=15585&deviceMac=00:1A:79:0A:3B:36
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS
+https://utube.buddyxiptv.com/@atnnewsltd.m3u8
+#EXTINF:-1 group-title="YOUTUBE" tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" ,ATN NEWS 2
+https://utube.buddyxiptv.com/@ATNNewsLive.m3u8
