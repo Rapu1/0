@@ -77,7 +77,9 @@ http://tv.cloudcdn.me/live.ts?channelId=114&uid=15585&deviceMac=00:1A:79:D9:7F:B
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
 #EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" ,Gazi TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
-#EXTINF:-1 ,IBTV
+#EXTINF:-1 ,IBTV USA <jago>
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8
+#EXTINF:-1 ,IBTV USA
 https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist_w270842026.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU_idVchUr-IGT6csSe94IJYOYZafaEr4Dg&s.png" ,AZAN TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
@@ -99,12 +101,16 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 #EXTINF:-1 ,Deen TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" ,Islam Bangla <JAGO>
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8
 #EXTINF:-1 ,iON TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 ,Iqra Bangla  
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" ,Islam Bangla <JAGO>
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" ,Islam Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png" ,PEACE TV BANGLA  <jago>
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png" ,PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 ,SALAM TV
@@ -153,6 +159,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8
 #EXTINF:-1 ,Channel 5 Europe
 https://global.ncare.live/streams/batv.stream/playlist.m3u8
+#EXTINF:-1 ,Channel 5 Europe  <jago>
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/batv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png" ,Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,Dishe Bideshe
@@ -209,6 +217,8 @@ http://tv.cloudcdn.me/live.ts?channelId=40476&uid=15585&deviceMac=00:1A:79:D9:7F
 http://tv.cloudcdn.me/live.ts?channelId=91169&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" ,Sony Yay
 http://103.151.60.174/test2028
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" ,Sony Yay Hindi
+http://9zxma7fc.megatv.fun/iptv/65AAQRG2FPVFWX/6627/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" ,NICK BANGLA
 http://14.102.123.50:5001/live/1341.m3u8
 #EXTINF:-1 tvg-name="Sonic Bangla" tvg-logo="http://14.102.123.50:5001/jtvimage/Sonic_Bangla.png" ,Sonic Bangla
