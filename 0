@@ -3,6 +3,8 @@
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/live-orgin/Btv-g.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
 http://tv.cloudcdn.me/live.ts?channelId=100&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 2
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpqPc1N-aemKAM_jA80BgLMZdJV2183SnI0MAPldTgg&s" ,SOMOY TV 
 http://tv.cloudcdn.me/live.ts?channelId=115&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpqPc1N-aemKAM_jA80BgLMZdJV2183SnI0MAPldTgg&s" ,SOMOY TV <OWN>
@@ -10,6 +12,8 @@ https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a218265
 #EXTINF:-1 ,INDEPENDENT 
 http://tv.cloudcdn.me/live.ts?channelId=99&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1 ,channel 24
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
+#EXTINF:-1 ,channel 24 
 http://tv.cloudcdn.me/live.ts?channelId=87&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1 ,DESH TV <YT>
 http://tv.cloudcdn.me/live.ts?channelId=93&uid=15585&deviceMac=00:1A:79:D9:7F:BB
@@ -61,8 +65,6 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://tv.cloudcdn.me/live.ts?channelId=114&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" ,Gazi TV 
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" ,Gazi TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
 #EXTINF:-1 ,IBTV USA <jago>
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8
 #EXTINF:-1 ,IBTV USA
@@ -134,7 +136,7 @@ http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE DRAMA 2
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=toffee_drama
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE SPORTS
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-op/index.m3u8?id=sports_highlights
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sports_highlights
 #EXTINF:-1 ,ATN MUSIC
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 ,Bangla 24 Canada
@@ -206,7 +208,7 @@ http://tv.cloudcdn.me/live.ts?channelId=40476&uid=15585&deviceMac=00:1A:79:D9:7F
 #EXTINF:-1 ,Wow Kid <MAC>
 http://tv.cloudcdn.me/live.ts?channelId=91169&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" ,Sony Yay
-http://103.151.60.174/test2028
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_yay
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" ,Sony Yay Hindi
 http://9zxma7fc.megatv.fun/iptv/65AAQRG2FPVFWX/6627/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" ,NICK BANGLA
