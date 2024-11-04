@@ -6,6 +6,8 @@ http://xtv.ooo:8080/live/boss7770035788/navid@47855098/245930.ts
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" ,BTV CTG
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU_idVchUr-IGT6csSe94IJYOYZafaEr4Dg&s.png" ,AZAN TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png" ,JAMUNA TV 
 http://tv.cloudstatic.me/live.ts?channelId=100&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com 
@@ -42,7 +44,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ8LjtBG/v-DXLu-LBXf6-J.png" ,MyTV HD 
 https://mytvbangla.com/0.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 ,TALK SHOW CHANNEL
+#EXTINF:-1 ,Talk Show TV
 http://tv.cloudcdn.me/live.ts?channelId=44155&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" ,TBN 24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
@@ -54,12 +56,18 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=ATN-BANGLA
 #EXTINF:-1 ,ATN Bangla UK
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 ,ATN ISLAMIC
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png" ,Channel I 
 https://channel-i-tv.rockstreamer.com/chlive/121212/playlist.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" ,BANGLA VISION
 http://tv.cloudstatic.me/live.ts?channelId=84&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" ,Islam Bangla 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png" ,PEACE TV BANGLA 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" ,Boishakhi 
 http://tv.cloudstatic.me/live.ts?channelId=86&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com 
@@ -78,68 +86,61 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 http://tv.digitalview.live:8080/play/vg5FlUwzpB04HSzh6nYW3UwYf-ZpZFoIcI3YWDMHX_Q/ts
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png" ,MAASRANGA  
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mT8z6L7/IMG-20240126-085458.png" ,CHANNEL S UK  
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1,GLOBAL TV HD
+#EXTINF:-1,GLOBAL TV 
 http://tv.digitalview.live:8080/play/vg5FlUwzpB04HSzh6nYW3f7w_7R9Bkey15Qcqo0yEKw/ts
-#EXTINF:-1 ,SA TV 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" ,Gazi TV 
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
+https://hotflixbd.online/hotflix/gtv/index.m3u8
 #EXTINF:-1 ,IBTV USA 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 ,SA TV 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,ASIAN TV 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mT8z6L7/IMG-20240126-085458.png" ,CHANNEL S   
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 ,NRB TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 ,ION TV 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,Channel 9 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,NATOK CHANNEL
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/19839.ts
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" , TOFFEE DRAMA 
 http://asfaiptv24.mobie.in/TOFFEE_TV2/TOF/03-Toffe-DRAMA.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png", DESHI TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" ,DEEPTO TV
 https://static.jagobd.com.bd/live-orgin/deeptotv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1" ,PROBASI BANGLA
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+#EXTINF:-1 ,Millennium TV 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,JonmoBhumi TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8|referer=https://www.jagobd.com 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7F0P50N/GKBkm2e.png", DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 ,Channel Europe
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeleurope.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,The Channel TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,JAGONEWS24 TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 tvg-id="JADOO TV" tvg-name="JADOO TV" tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png" ,Gazi TV 
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU_idVchUr-IGT6csSe94IJYOYZafaEr4Dg&s.png" ,AZAN TV
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-#EXTINF:-1 ,ATN ISLAMIC
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,DEEN TV UK
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,IQRA BANGLA TV 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xuNhiek.png" ,Islam Bangla 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png" ,PEACE TV BANGLA 
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,SALAM TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,TV ONE UK
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,ION TV UK
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,WAZ 1
 https://ythls-v3.onrender.com/channel/UCr79xFG2G0Lq0HKQQ8-hKrQ.m3u8
 #EXTINF:-1 ,WAZ 2
 https://ythls-v3.onrender.com/channel/UC13bFv_sDsw_8yABqI2jc9A.m3u8
-#EXTINF:-1 ,BOKTA TV
+#EXTINF:-1 ,VOKTA TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voktatv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,Jagoroni TV 
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,Millennium TV USA
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,Bangla 24 Canada
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,Biswa Bangla 24
@@ -156,8 +157,6 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/varendratv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 , Channel A1
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cha1.stream/playlist.m3u8|referer=https://www.jagobd.com 
-#EXTINF:-1 ,SANANDA TV
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 ,MOVIE CHANNEL
 http://tv.mototvlive.net:8880/live/kamrul19/kamrul1715/19740.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" ,Animal Planet 
@@ -166,10 +165,10 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 http://starshare.live:8080/live/3569087360/6542246996/7343.ts
 #EXTINF:-1 , DISCOVERY
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" ,RONGEEN TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/hjB429Wx/67-yr-CVG7-G.png", GUBBARE
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 ,ATN NATOK
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ATNBanglaDharabahik
+#EXTINF:-1 ,BONGO NATOK
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@Bongo-BD
 #EXTINF:-1 tvg-logo="https://i.ibb.co/02xWysg/20240817-135436.png" ,Discovery Kids 
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" ,NICK BANGLA
